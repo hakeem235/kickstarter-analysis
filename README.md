@@ -37,8 +37,18 @@ _____
 
 - What can you conclude about the Outcomes based on Goals?
 
+    ___
+
 - What are some limitations of this dataset?
 
-- What are some other possible tables and/or graphs that we could create?
+    - The data sourced from multiple countries, and their currency, in this case, I don't get how the data normalized those currencies into one and compared the outcome.
+    - The data is not normally distributed we need more samples to generalize about the data set.
 
-    - Number of Campaigns by Country
+    ____
+- What are some other possible tables and/or graphs that we could create?
+    - Make outlier testing
+    - Creating a table and graph by excluding outliers
+    - Creating a graph that shows the campaign result quarterly, and yearly
+    - Conducting some statistical analysis, creating a table and graph that shows the difference in campaign outcomes across categories and time
+    - Creating a graph and table by making a comparison across different countries on the campaign being successful or failed.
+    - Creating a comparison table or graph which shows average donation across campaign outcomegn 
