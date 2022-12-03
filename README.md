@@ -36,6 +36,8 @@ _____
     _________
 
 - What can you conclude about the Outcomes based on Goals?
+    - The Kickstarter with the highest goals has more risk to fail 
+     - Less than 20% of Kickstarter with a goal of more than 45000 are success
 
     ___
 
